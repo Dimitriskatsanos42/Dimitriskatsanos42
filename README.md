@@ -6,4 +6,6 @@
 
 🙋 I’m trying to learn as much as I can each day.
 
+😄 Laptop, Coffee, Coding...!!!
+
 📧 How to reach me: dimitriskats42@gmail.com
