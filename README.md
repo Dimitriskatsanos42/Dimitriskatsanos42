@@ -1,40 +1,38 @@
-# Hi there 👋
+Hi there 👋
 
-🎓 I'm **Dimitris Katsanos** and I'm a **Computer Science student**.
+🎓 I'm Dimitris Katsanos and I'm a Computer Science student.
 
-🏢 I'm from **Greece**, currently living in **Athens** and working on some **personal projects**.
+🏢 I'm from Greece, currently living in Athens and working on some personal projects.
 
 🙋 I’m trying to learn as much as I can each day.
 
 😄 Laptop, Coffee, Coding...!!!
 
-📧 **How to reach me:**  dimitriskats42@gmail.com
+📧 How to reach me:  
+dimitriskats42@gmail.com
 
----
+💻 Languages
 
-## 💻 Languages
+🐍 Python
 
-- 🐍 **Python**
-- 🗄️ **SQL**
-- 🌐 **JavaScript**
-- 🎨 **HTML5 / CSS3**
+🗄️ SQL
 
----
+🌐 JavaScript
 
-## 🧩 Frameworks
+🎨 HTML5 / CSS3
 
-- 🌿 **Django**
-- 📱 **Flutter**
-- 💨 **Tailwind CSS**
+🧩 Frameworks
 
----
+🌿 Django
 
-## 🛠️ Tools
+📱 Flutter
 
-- 🔧 **Git & GitHub**
-- 🐳 **Docker**
-- 🐧 **Linux**
+💨 Tailwind CSS
 
----
+🛠️ Tools
 
-✨ _Always learning, always building._
+🔧 Git & GitHub
+
+🐳 Docker
+
+🐧 Linux
