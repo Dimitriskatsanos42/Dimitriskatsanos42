@@ -17,6 +17,7 @@
 | Languages | Frameworks | Tools |
 |----------|------------|-------|
 | 🐍 Python | 🌿 Django | 🔧 Git & GitHub |
-| 🗄️ SQL | 📱 Flutter | 🐳 Docker |
-| 🌐 JavaScript | 💨 Tailwind CSS | 🐧 Linux |
-| 🎨 HTML5 / CSS3 |  |  |
+| ☕ Java | 📱 Flutter | 🐳 Docker |
+| 🗄️ SQL | 💨 Tailwind CSS | 🐧 Linux |
+| 🌐 JavaScript |  | 🧠 VS Code |
+| 🎨 HTML5 / CSS3 |  | 🗄️ MySQL |
