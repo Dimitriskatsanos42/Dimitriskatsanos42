@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 🎓 I'm Dimitris Katsanos and I'm a Computer Science student.
 
@@ -11,28 +11,13 @@ Hi there 👋
 📧 How to reach me:  
 dimitriskats42@gmail.com
 
-💻 Languages
+---
 
-🐍 Python
+## Skills
 
-🗄️ SQL
-
-🌐 JavaScript
-
-🎨 HTML5 / CSS3
-
-🧩 Frameworks
-
-🌿 Django
-
-📱 Flutter
-
-💨 Tailwind CSS
-
-🛠️ Tools
-
-🔧 Git & GitHub
-
-🐳 Docker
-
-🐧 Linux
+| Languages | Frameworks | Tools |
+|----------|------------|-------|
+| 🐍 Python | 🌿 Django | 🔧 Git & GitHub |
+| 🗄️ SQL | 📱 Flutter | 🐳 Docker |
+| 🌐 JavaScript | 💨 Tailwind CSS | 🐧 Linux |
+| 🎨 HTML5 / CSS3 |  |  |
