@@ -20,4 +20,4 @@
 | ☕ Java | 📱 Flutter | 🐳 Docker |
 | 🗄️ SQL | 💨 Tailwind CSS | 🐧 Linux |
 | 🌐 JavaScript |  | 🧠 VS Code |
-| 🎨 HTML5 / CSS3 |  | 🗄️ MySQL |
+| 🎨 HTML5 / CSS3 |  |
