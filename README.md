@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🎓 I'm Dimitris Katsanos and I'm a Computer Science student.
+🎓 I'm Dimitris Katsanos, a Computer Science graduate with a focus on software development.
 
 🏢 I'm from Greece, currently living in Athens and working on some personal projects.
 
