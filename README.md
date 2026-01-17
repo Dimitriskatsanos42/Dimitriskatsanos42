@@ -12,7 +12,7 @@
 
 ---
 
-## Skills
+## 💻 Technical Skills
 
 | Languages | Frameworks | Tools |
 |----------|------------|-------|
