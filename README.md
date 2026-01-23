@@ -12,8 +12,6 @@
 
 ---
 
----
-
 ## 💻 Technical Skills
 
 ### 🧑‍💻 Languages:
