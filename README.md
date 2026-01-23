@@ -12,18 +12,6 @@
 
 ---
 
-## 💻 Technical Skills
-
-| Languages | Frameworks | Tools |
-|----------|------------|-------|
-| 🐍 Python | 🌿 Django | 🔧 Git & GitHub |
-| ☕ Java | 📱 Flutter | 🐳 Docker |
-| 🗄️ SQL | 💨 Tailwind CSS | 🐧 Linux |
-| 🌐 JavaScript |  | 🧠 VS Code |
-| 🎨 HTML5 / CSS3 |  |
-
-
-
 ---
 
 ## 💻 Technical Skills
