@@ -23,15 +23,10 @@
 | 🎨 HTML5 / CSS3 |  |
 
 
-## 🌍 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge\&logo=whatsapp)](#)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
 ### 🧑‍💻 Languages:
 
@@ -58,4 +53,4 @@
 
 ---
 
-✨ *Built with ❤️ for my GitHub profile*
+
