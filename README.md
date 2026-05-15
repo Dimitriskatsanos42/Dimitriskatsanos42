@@ -47,7 +47,6 @@ I am currently focused on backend development, networking fundamentals, Linux sy
 
 ## 🌐 Networking & Infrastructure
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs-Network_Segmentation-blue?style=for-the-badge)
 ![Routing](https://img.shields.io/badge/Routing_&_Switching-Networking-black?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
