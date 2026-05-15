@@ -105,15 +105,3 @@ I am especially interested in roles related to:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitriskatsanos42&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitriskatsanos42&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Connect With Me
-
-- GitHub: https://github.com/Dimitriskatsanos42
-- Email: dimitriskats42@gmail.com
