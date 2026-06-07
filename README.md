@@ -62,6 +62,7 @@ I am currently focused on backend development, networking fundamentals, Linux sy
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-FF6600?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
