@@ -97,12 +97,13 @@
 
 ### 📚 Currently Learning
 
-`Software Engineering` • `Infrastructure Automation` • `Linux System Administration` • `Network Security Fundamentals` • `Cloud & DevOps` • `Cybersecurity`
+`Backend Development` • `Infrastructure Automation` • `Linux System Administration` • `Cloud & DevOps` • `Network Security Fundamentals` • `Cybersecurity`
+
 ---
 
 ### 🎯 Career Goals
 
-Growing as a Software Engineer while building strong foundations in networking, infrastructure, and modern IT systems — with a focus on **Backend Development**, **IT Infrastructure**, **DevOps & Cloud**, and **Network Engineering**.
+Growing as a Software Engineer while building strong foundations across **software development**, **networking**, **IT infrastructure**, **cloud computing**, **DevOps**, and **cybersecurity**. I aim to continuously expand my technical expertise and contribute to designing, building, and securing reliable, scalable, and modern IT systems.
 
 ---
 
