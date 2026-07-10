@@ -94,7 +94,7 @@
 
 ### 📚 Currently Learning
 
-`Backend Development` • `Infrastructure Automation` • `Linux System Administration` • `Cloud & DevOps` • `Network Security Fundamentals` • `Cybersecurity`
+`Backend Development` • `Infrastructure Automation` •`REST APIs` • `Linux System Administration` • `Cloud & DevOps` • `Network Security Fundamentals` • `Cybersecurity`
 
 ---
 
