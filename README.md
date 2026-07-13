@@ -83,12 +83,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌐 [Network Design & Infrastructure Simulation](https://github.com/Dimitriskatsanos42/Network-Design-Infrastructure-Simulation-Cisco-Packet-Tracer-) | Enterprise network simulation with VLAN segmentation, routing & switching, DHCP configuration, and connectivity testing | Cisco Packet Tracer |
-| 🔌 [Network Programming Labs](https://github.com/Dimitriskatsanos42/Network-Programming-Labs) | From manual socket handling in C to orchestrating complex virtual network topologies | C |
-| ⚡ [Algorithms & Complexity](https://github.com/Dimitriskatsanos42/Algorithms-and-Complexity) | Maximum subarray, maze solver, longest common subsequence, and other algorithmic projects | Python |
-| 🖥️ [Computing Architecture](https://github.com/Dimitriskatsanos42/Computing-Architecture) | Assembly & VHDL projects: calculators, blinking planets, sensors, traffic lights | Assembly, VHDL |
 | ☀️ [ADMIE Renewable Energy Data](https://github.com/Dimitriskatsanos42/Admie-renewable-energy-data) | Python scripts analyzing renewable energy production data in Greece from ADMIE (data.gov.gr) | Python |
+| 🔌 [Network Programming Labs](https://github.com/Dimitriskatsanos42/Network-Programming-Labs) | From manual socket handling in C to orchestrating complex virtual network topologies | C |
+| 🌐 [Network Design & Infrastructure Simulation](https://github.com/Dimitriskatsanos42/Network-Design-Infrastructure-Simulation-Cisco-Packet-Tracer-) | Enterprise network simulation with VLAN segmentation, routing & switching, DHCP configuration, and connectivity testing | Cisco Packet Tracer |
 | 📖 [Infrastructure Knowledge Base](https://github.com/Dimitriskatsanos42/Infrastructure-Knowledge-Base) | Living documentation of my IT infrastructure journey: labs, notes, troubleshooting guides, automation scripts | PowerShell |
+| 🎓 [Academic CRM](https://github.com/Dimitriskatsanos42/Academic-crm) | Academic management system for students, courses, and professors | Django, Python |
+| 🛡️ [SOC Monitoring & Threat Detection Framework](https://github.com/Dimitriskatsanos42/SOC-Monitoring-Threat-Detection-Framework) | Framework for security event monitoring, threat detection, and log analysis, including detection rules and threat hunting techniques | Python |
 
 ---
 
